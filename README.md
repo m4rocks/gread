@@ -5,7 +5,7 @@ pages that are easier on the eyes.
 
 ## :question: How to
 
-Prefix `gread.deno.dev/` or `gread.notangelmario.dev/` before your
+Prefix `gread.deno.dev/` or `gread.m4.rocks/` before your
 url.
 
 ## :sparkles: Features
